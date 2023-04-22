@@ -1,5 +1,9 @@
 <h1>VideoToJpg</h1>
 
+<h2>Description: </h2>
+
+<p>Convert video to jpg images</p>
+
 <h2>Installation: </h2>
 
 <p>Install OpenCV, rembg, mediapipe</p>
