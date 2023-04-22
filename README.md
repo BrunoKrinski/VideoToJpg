@@ -12,7 +12,6 @@ usage: convert.py [-h] [--video VIDEO] [--blur_level BLUR_LEVEL] [--num_faces NU
 
 
 <h3>Arguments</h3>
-=========
 
 ``--video``
 ------------------
